@@ -1,0 +1,12 @@
+[package]
+name = "besteirinha"
+version = "0.1.0"
+authors = ["Carolina Herbster <carolhmj@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+piston = "0.36.0"
+piston2d-graphics = "0.26.0"
+piston2d-opengl_graphics = "0.53.0"
+pistoncore-glutin_window = "0.46.0"
+spritesheet = {git = 'https://github.com/carolhmj/piston-spritesheet' }
